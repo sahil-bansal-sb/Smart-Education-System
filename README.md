@@ -1,5 +1,5 @@
 # Project
-### Let's eliminate the education system
+### Let's help education system
 
 ![education-system](https://user-images.githubusercontent.com/17814101/36624347-fc74a6de-1933-11e8-8468-86b9ea2efbef.png)
 
@@ -10,4 +10,5 @@ Our idea is to eliminate the education system from the world and to create such 
 	Frontend -> HTML,CSS,Bootsrap
 	Backend  -> Flask,Python
 	Data analytics -> Plotly
+	Questions -> Trivia Api
 	Algorithms -> Similar to apriori(Our own innovation)
